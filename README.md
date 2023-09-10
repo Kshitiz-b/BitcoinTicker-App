@@ -1,4 +1,4 @@
-# bitcoin_ticker
+# Bitcoin_Ticker Application
 
 ## 11th Flutter Project
 In this project I used the API from https://www.coinapi.io/ to get the current price of Crypto Currencies.<br>
